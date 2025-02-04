@@ -20,3 +20,5 @@ class MainActivity : AppCompatActivity(), AugmentedFaceListener {
    override fun onFaceUpdate(face: AugmentedFaceNode) {}
 }
 ```
+
+Check out [the article](https://hackernoon.com/after-google-gave-up-on-sceneform-this-developer-built-a-better-way-to-bring-ar-faces-to-life) on Hackernoon for more details
